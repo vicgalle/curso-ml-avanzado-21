@@ -1,6 +1,7 @@
 # curso-ml-avanzado-21
 
-Última sesión: introducción al deep learning y al despliegue de modelos.
+Última sesión del curso de Machine Learning Avanzado con Python, impartido para La Academia de PwC en El Escorial en septiembre de 2021.
+Consta de las siguientes dos partes (4h en total): introducción al deep learning con pytorch y al despliegue de modelos con fastAPI.
 
 Los cuadernos son los siguientes:
 
