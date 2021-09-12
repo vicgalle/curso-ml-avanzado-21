@@ -7,6 +7,8 @@ from pydantic import  BaseModel
 # cargamos el modelo
 pipe = load('models/model_2021-07-22*17-59-05.joblib') 
 
+
+
 def get_prediction(params):
     
     x = [[params.culmen_length, params.culmen_depth, params.flipper_length, params.body_mass]]
