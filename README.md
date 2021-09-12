@@ -11,4 +11,4 @@ Los cuadernos son los siguientes:
 
 y finalmente
 
-* [1_Desplegando_modelos](deep_learning/1_Desplegando_modelos.ipynb)
+* [1_Desplegando_modelos](deploy/1_Desplegando_modelos.ipynb)
